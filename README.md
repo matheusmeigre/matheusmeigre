@@ -1,4 +1,4 @@
-# Matheusmeigre
+# Matheus Meigre (matheusmeigre)
 Olá eu me chamo Matheus Meigre, como vai?
  
  Tenho atualmente 22 anos de idade e minha curiosidade na tecnologia começou bem cedo aos 14, onde, eu procurava tutoriais na internet sobre como desenvolver sistemas de Login e apps em Delphi. Me interessei bastante pelos códigos e por criar/consertar trabalhos, hoje estudo FullStack e estou iniciando minha faculdade de Engenharia de Software, pretendo ampliar meus conhecimentos cada vez mais para me inserir nesse mercado que se tornou minha paixão!
