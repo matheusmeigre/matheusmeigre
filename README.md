@@ -1,7 +1,7 @@
 # Matheus Meigre (matheusmeigre)
 Olá eu me chamo Matheus Meigre, como vai?
  
- Tenho atualmente 22 anos de idade e minha curiosidade na tecnologia começou bem cedo aos 14, onde, eu procurava tutoriais na internet sobre como desenvolver sistemas de Login e apps em Delphi. Me interessei bastante pelos códigos e por criar/consertar trabalhos, hoje estudo FullStack e estou iniciando minha faculdade de Engenharia de Software, pretendo ampliar meus conhecimentos cada vez mais para me inserir nesse mercado que se tornou minha paixão!
+ Tenho atualmente 23 anos de idade e minha curiosidade na tecnologia começou bem cedo aos 14, onde, eu procurava tutoriais na internet sobre como desenvolver sistemas de Login e apps em Delphi. Me interessei bastante pelos códigos e por criar/consertar trabalhos, hoje estudo FullStack e estou iniciando minha faculdade de Engenharia de Software, pretendo ampliar meus conhecimentos cada vez mais para me inserir nesse mercado que se tornou minha paixão!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-meigre/)
@@ -18,7 +18,6 @@ Olá eu me chamo Matheus Meigre, como vai?
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusmeigre&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusmeigre&bg_color=000&border_color=30A3DC)
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-login)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-relogio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-relogio)
