@@ -18,7 +18,7 @@ Olá eu me chamo Matheus Meigre, como vai?
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmeigre&show_icons=true&theme=radical))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusmeigre&show_icons=true&theme=radical)
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-login)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-relogio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-relogio)
