@@ -36,12 +36,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual-Studio-purple)
 ![Cursor](https://img.shields.io/badge/Cursor-black)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<br>
 
-<br/>
-
-<a href="https://github.com/matheusmeigre" title="Meu Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmeigre&theme=dracula&show_icons=true" />
-</a>
+</br>
 
 ## Onde me encontrar
 
