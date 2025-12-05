@@ -1,26 +1,50 @@
-# Matheus Meigre (matheusmeigre)
-Olá eu me chamo Matheus Meigre, como vai?
- 
- Tenho atualmente 23 anos de idade e minha curiosidade na tecnologia começou bem cedo aos 15, onde, eu procurava tutoriais na internet sobre como desenvolver sistemas de Login e apps em Delphi. Me interessei bastante pelos códigos e por criar/consertar trabalhos, hoje estudo FullStack e estou iniciando minha faculdade de Engenharia de Software, pretendo ampliar meus conhecimentos cada vez mais para me inserir nesse mercado que se tornou minha paixão!
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-meigre/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uaimeigre/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+## Sobre mim
 
-## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Software na Unicesumar.
+- 💼 Trabalhando como Programador de Sistemas na Energisa.
+- 🌱 Aprendendo mais sobre APIs REST; .NET; Microsoft Azure; Docker;
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusmeigre&show_icons=true&theme=radical)
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-login&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-login)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-relogio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-relogio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-clima&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-clima)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusmeigre&repo=projeto-form&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/matheusmeigre/projeto-form)
+## Minhas Skills
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB] (https://img.shields.io/badge/MongoDB-blue)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Azure] (https://img.shields.io/badge/Azure-Devops-blue)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio] (https://img.shields.io/badge/Visual-Studio-purple)
+![Cursor] (https://img.shields.io/badge/Cursor-black)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/matheusmeigre" title="Meu Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmeigre&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-matheusmeigre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-meigre)](https://www.linkedin.com/in/matheus-meigre)
+[![Gmail Badge](https://img.shields.io/badge/-matheusmeigre@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmeigre@gmail.com)](mailto:matheusmeigre@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/matheusmeigre?label=follow&style=social)](https://github.com/matheusmeigre)
