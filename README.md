@@ -28,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Azure](https://img.shields.io/badge/Azure-Devops-blue)
-
+<br> </br>
 
 **Ferramentas de desenvolvimento**
 
@@ -38,6 +38,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br>
 
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmeigre&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </br>
 
 ## Onde me encontrar
