@@ -38,7 +38,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 <br>
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmeigre&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmeigre&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </br>
 
 ## Onde me encontrar
