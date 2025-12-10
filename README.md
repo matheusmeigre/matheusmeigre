@@ -37,10 +37,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual-Studio-purple)
 ![Cursor](https://img.shields.io/badge/Cursor-black)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<br>
-
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmeigre&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</br>
 
 ## Onde me encontrar
 
