@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na Unicesumar.
 - 💼 Trabalhando como Programador de Sistemas na Energisa.
-- 🌱 Aprendendo mais sobre APIs REST; .NET; Microsoft Azure; Docker;
+- 🌱 Aprendendo mais sobre APIs REST; .NET; Microsoft Azure; Docker; IA;
 
 ## Minhas Skills
 
