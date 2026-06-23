@@ -1,45 +1,111 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<h1 align="center">
+Olá, eu sou o Matheus Meigre 👋
+</h1>
 
-## Sobre mim
+<h3 align="center">
+Engenharia de Software • FullStack Developer • Cloud • DevOps
+</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na Unicesumar.
-- 💼 Trabalhando como Programador de Sistemas na Energisa.
-- 🌱 Aprendendo mais sobre APIs REST; .NET; Microsoft Azure; Docker; IA;
+<p align="center">
+<a href="mailto:matheusmeigre@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## Minhas Skills
+<a href="https://www.linkedin.com/in/matheus-meigre/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Aplicações e dados**
+<a href="https://github.com/matheusmeigre">
+<img src="https://img.shields.io/github/followers/matheusmeigre?style=for-the-badge"/>
+</a>
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDb-3333?style=flat&logo=mongodb)
+---
 
-**Utilidades**
+## 👨‍💻 Sobre mim
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+Sou desenvolvedor de software, atualmente atuando como **Programador de Sistemas na Energisa** e cursando **Engenharia de Software**.
 
-**DevOps**
+Tenho interesse em desenvolvimento escalável, APIs, arquitetura de sistemas, cloud e soluções orientadas a produto.
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Azure](https://img.shields.io/badge/Azure-Devops-blue)
-<br> </br>
+### Atualmente aprofundando em:
 
-**Ferramentas de desenvolvimento**
+- .NET
+- APIs REST
+- Microsoft Azure
+- Docker
+- Inteligência Artificial
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual-Studio-purple)
-![Cursor](https://img.shields.io/badge/Cursor-black)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-## Onde me encontrar
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-matheusmeigre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-meigre)](https://www.linkedin.com/in/matheus-meigre)
-[![Gmail Badge](https://img.shields.io/badge/-matheusmeigre@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusmeigre@gmail.com)](mailto:matheusmeigre@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/matheusmeigre?label=follow&style=social)](https://github.com/matheusmeigre)
+### Tecnologias
+
+<br>
+
+<kbd>
+<kbd>Backend</kbd>
+<br><br>
+
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+</kbd>
+
+<kbd>
+<kbd>Frontend</kbd>
+<br><br>
+
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+</kbd>
+
+<kbd>
+<kbd>Cloud & DevOps</kbd>
+<br><br>
+
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+</kbd>
+
+<kbd>
+<kbd>Banco de Dados</kbd>
+<br><br>
+
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
+</kbd>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusmeigre&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmeigre&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+<p align="center">
+
+📫 Contato: **matheusmeigre@gmail.com**
+
+</p>
+
+<div align="center">
+
+Construindo soluções com foco em simplicidade.
+
+</div>
