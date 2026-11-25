@@ -1,0 +1,54 @@
+name: Metrics
+
+on:
+  # Atualiza os cards uma vez por dia (06:00 UTC = 03:00 em Brasília)
+  schedule: [{cron: "0 6 * * *"}]
+  # Execução manual pela aba Actions e a cada push na main
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+# Os cards são commitados de volta neste repositório pelo GITHUB_TOKEN
+permissions:
+  contents: write
+
+# Nunca deixa duas execuções commitarem ao mesmo tempo
+concurrency:
+  group: metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      # Card da esquerda: atividade, comunidade, repositórios e linguagens mais usadas
+      - name: Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: overview.svg
+          # Personal access token salvo nos secrets do repositório
+          token: ${{ secrets.METRICS_TOKEN }}
+          # O GITHUB_TOKEN é gerado automaticamente e só é usado para commitar o card
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
+          user: matheusmeigre
+          template: classic
+          base: activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_limit: 6
+
+      # Card da direita: calendário isométrico de contribuições
+      - name: Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
+          user: matheusmeigre
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
